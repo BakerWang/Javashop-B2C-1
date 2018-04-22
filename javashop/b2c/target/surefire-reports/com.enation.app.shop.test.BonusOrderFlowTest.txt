@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.BonusOrderFlowTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE! - in com.enation.app.shop.test.BonusOrderFlowTest
+testBase(com.enation.app.shop.test.BonusOrderFlowTest)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+testAddBonus(com.enation.app.shop.test.BonusOrderFlowTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.SubjectAddGoodsTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in com.enation.app.shop.test.admin.SubjectAddGoodsTest
+subjectAddTest(com.enation.app.shop.test.admin.SubjectAddGoodsTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+subjectAddEditTest(com.enation.app.shop.test.admin.SubjectAddGoodsTest)  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+subjectAddDeleteTest(com.enation.app.shop.test.admin.SubjectAddGoodsTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

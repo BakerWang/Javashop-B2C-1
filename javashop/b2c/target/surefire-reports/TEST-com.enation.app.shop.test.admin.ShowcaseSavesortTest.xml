@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.enation.app.shop.test.admin.ShowcaseSavesortTest" time="0" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="idea.version" value="2017.3.4"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="E:\Tools\jdk1.8.0_101\jre\bin"/>
+    <property name="java.vm.version" value="25.101-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\workspaces\IntelliJ_IDEA\Javashop-B2C\javashop"/>
+    <property name="java.runtime.version" value="1.8.0_101-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="E:\Tools\jdk1.8.0_101\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\xuxin\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\Tools\apache-maven-3.0.4\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="E:\Tools\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Tools\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;E:\Tools\apache-maven-3.0.4\bin\;E:\Tools\jdk1.8.0_101\bin\;E:\Tools\MySQL5.6\bin\;E:\Tools\jdk1.8.0_101\jre\bin\;E:\software\Git\cmd;E:\Tools\gradle-4.0\bin\;E:\Tools\nodejs\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;E:\Tools\Git\bin;E:\Tools\Redis-x64-3.2.100;E:\Tools\erl7.2\bin;E:\Tools\rabbitmq_server-3.3.4\sbin;E:\Tools\erl7.2\bin;E:\Tools\TortoiseSVN\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\xuxin\AppData\Local\Microsoft\WindowsApps;C:\Users\xuxin\AppData\Roaming\npm;E:\Tools\VSCode1.19.1\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\xuxin"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="xuxin"/>
+    <property name="java.class.path" value="E:\Tools\apache-maven-3.0.4\boot\plexus-classworlds-2.4.jar;E:\Tools\IntelliJ IDEA 2017.3.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="E:\Tools\jdk1.8.0_101\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.3.4 install -P jdk17"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_101"/>
+    <property name="java.ext.dirs" value="E:\Tools\jdk1.8.0_101\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="E:\Tools\jdk1.8.0_101\jre\lib\resources.jar;E:\Tools\jdk1.8.0_101\jre\lib\rt.jar;E:\Tools\jdk1.8.0_101\jre\lib\sunrsasign.jar;E:\Tools\jdk1.8.0_101\jre\lib\jsse.jar;E:\Tools\jdk1.8.0_101\jre\lib\jce.jar;E:\Tools\jdk1.8.0_101\jre\lib\charsets.jar;E:\Tools\jdk1.8.0_101\jre\lib\jfr.jar;E:\Tools\jdk1.8.0_101\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\Tools\apache-maven-3.0.4"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="showcaseSavesortTest" classname="com.enation.app.shop.test.admin.ShowcaseSavesortTest" time="0">
+    <error message="javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V" type="java.lang.NoSuchMethodError">java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+</error>
+    <system-out><![CDATA[[21:00:36|INFO |(org.springframework.test.context.web.WebTestContextBootstrapper)]=[Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]]
+[21:00:36|INFO |(org.springframework.test.context.web.WebTestContextBootstrapper)]=[Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@773ad729, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@20e8286a, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4d408746, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6ae55678, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4bc75792, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2a0d8df8]]
+[21:00:36|INFO |(org.springframework.test.context.transaction.TransactionContext)]=[Began transaction (1) for test context [DefaultTestContext@232899d1 testClass = ShowcaseSavesortTest, testInstance = com.enation.app.shop.test.admin.ShowcaseSavesortTest@522221e1, testMethod = showcaseSavesortTest@ShowcaseSavesortTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@63be4548 testClass = ShowcaseSavesortTest, locations = '{classpath*:spring_cfg/*.xml}', classes = '{}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{}', resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.test.context.web.WebDelegatingSmartContextLoader', parent = [null]]]; transaction manager [org.springframework.jdbc.datasource.DataSourceTransactionManager@379df603]; rollback [true]]
+[21:00:36|INFO |(org.springframework.mock.web.MockServletContext)]=[: init]
+[21:00:36|INFO |(org.springframework.mock.web.MockServletContext)]=[Initializing Spring FrameworkServlet '']
+[21:00:36|INFO |(org.springframework.test.web.servlet.TestDispatcherServlet)]=[FrameworkServlet '': initialization started]
+[21:00:36|INFO |(org.springframework.test.web.servlet.TestDispatcherServlet)]=[FrameworkServlet '': initialization completed in 13 ms]
+[21:00:36|INFO |(org.springframework.test.context.transaction.TransactionContext)]=[Rolled back transaction for test context [DefaultTestContext@232899d1 testClass = ShowcaseSavesortTest, testInstance = com.enation.app.shop.test.admin.ShowcaseSavesortTest@522221e1, testMethod = showcaseSavesortTest@ShowcaseSavesortTest, testException = java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V, mergedContextConfiguration = [WebMergedContextConfiguration@63be4548 testClass = ShowcaseSavesortTest, locations = '{classpath*:spring_cfg/*.xml}', classes = '{}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{}', resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.test.context.web.WebDelegatingSmartContextLoader', parent = [null]]].]
+]]></system-out>
+  </testcase>
+</testsuite>

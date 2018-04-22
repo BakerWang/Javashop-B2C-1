@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.OrderAdminCancleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in com.enation.app.shop.test.admin.OrderAdminCancleTest
+orderNotpayCancleTest(com.enation.app.shop.test.admin.OrderAdminCancleTest)  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

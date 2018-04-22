@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.base.test.AInstallTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.936 sec <<< FAILURE! - in com.enation.app.base.test.AInstallTest
+test(com.enation.app.base.test.AInstallTest)  Time elapsed: 0.367 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

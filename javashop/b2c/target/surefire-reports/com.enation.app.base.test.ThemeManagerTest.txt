@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.base.test.ThemeManagerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.enation.app.base.test.ThemeManagerTest
+testAdd(com.enation.app.base.test.ThemeManagerTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

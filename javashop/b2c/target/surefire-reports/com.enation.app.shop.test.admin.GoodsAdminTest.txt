@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.GoodsAdminTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in com.enation.app.shop.test.admin.GoodsAdminTest
+goodsAddEditTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+goodsAddEditDeleteTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0.003 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+goodsAddDeleteTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+goodsDeleteTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+goodsEditTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+goodsAddTest(com.enation.app.shop.test.admin.GoodsAdminTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

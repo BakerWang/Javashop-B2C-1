@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.FloorDeleteTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.enation.app.shop.test.admin.FloorDeleteTest
+floorPAddDeleteTest(com.enation.app.shop.test.admin.FloorDeleteTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+floorDeleteTest(com.enation.app.shop.test.admin.FloorDeleteTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+floorCAddDeleteTest(com.enation.app.shop.test.admin.FloorDeleteTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

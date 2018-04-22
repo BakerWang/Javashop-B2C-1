@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.OrderMemberRefundTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.022 sec <<< FAILURE! - in com.enation.app.shop.test.OrderMemberRefundTest
+orderPayRefundTest(com.enation.app.shop.test.OrderMemberRefundTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+orderCompleteRefundTest(com.enation.app.shop.test.OrderMemberRefundTest)  Time elapsed: 0.022 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/b2c/b2c.iml" filepath="$PROJECT_DIR$/b2c/b2c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-core/cms-core.iml" filepath="$PROJECT_DIR$/cms-core/cms-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javashop.iml" filepath="$PROJECT_DIR$/javashop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-core/shop-core.iml" filepath="$PROJECT_DIR$/shop-core/shop-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin/weixin.iml" filepath="$PROJECT_DIR$/weixin/weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zt-sms/zt-sms.iml" filepath="$PROJECT_DIR$/zt-sms/zt-sms.iml" />
+    </modules>
+  </component>
+</project>

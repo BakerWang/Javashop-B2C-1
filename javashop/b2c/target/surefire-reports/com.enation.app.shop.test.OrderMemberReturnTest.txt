@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.OrderMemberReturnTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.enation.app.shop.test.OrderMemberReturnTest
+orderReturnTest(com.enation.app.shop.test.OrderMemberReturnTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

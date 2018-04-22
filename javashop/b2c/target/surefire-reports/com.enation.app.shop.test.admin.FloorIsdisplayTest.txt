@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.FloorIsdisplayTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.005 sec <<< FAILURE! - in com.enation.app.shop.test.admin.FloorIsdisplayTest
+floorParentDisplayTest(com.enation.app.shop.test.admin.FloorIsdisplayTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+floorChildNoneTest(com.enation.app.shop.test.admin.FloorIsdisplayTest)  Time elapsed: 0.005 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+floorParentNoneTest(com.enation.app.shop.test.admin.FloorIsdisplayTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

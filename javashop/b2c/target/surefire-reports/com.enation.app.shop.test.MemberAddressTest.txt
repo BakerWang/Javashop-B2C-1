@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.MemberAddressTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.enation.app.shop.test.MemberAddressTest
+memberAddressLoginTest(com.enation.app.shop.test.MemberAddressTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+memberAddressNotloginTest(com.enation.app.shop.test.MemberAddressTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

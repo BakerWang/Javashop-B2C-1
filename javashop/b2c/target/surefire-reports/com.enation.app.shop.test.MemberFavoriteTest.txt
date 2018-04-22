@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.MemberFavoriteTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.enation.app.shop.test.MemberFavoriteTest
+memberFavoriteLogionTest(com.enation.app.shop.test.MemberFavoriteTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+memberCancelFavoriteNotloginTest(com.enation.app.shop.test.MemberFavoriteTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+memberCancelFavoriteLoginTest(com.enation.app.shop.test.MemberFavoriteTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+memberFavoriteNologionTest(com.enation.app.shop.test.MemberFavoriteTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+

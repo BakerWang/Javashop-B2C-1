@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.enation.app.shop.test.admin.FloorAddTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.enation.app.shop.test.admin.FloorAddTest
+floorParentAddTest(com.enation.app.shop.test.admin.FloorAddTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
+fllorChildAddTest(com.enation.app.shop.test.admin.FloorAddTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NoSuchMethodError: javax.servlet.http.HttpServletResponse.setCharacterEncoding(Ljava/lang/String;)V
+
